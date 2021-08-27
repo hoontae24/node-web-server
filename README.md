@@ -8,5 +8,7 @@
   - `DB_PASSWORD`: 데이터베이스 비밀번호
   - `DB_PORT`: 데이터베이스 포트
   - `DB_NAME`: 데이터베이스 명
+- 실행:
+  - `npm install` -> `npm start`
 
 > 참조: [AWS EC2 + RDS에 Node.js 서버 배포하기(Ubuntu, Mysql)](https://hoontae24.github.io/posts/10)
