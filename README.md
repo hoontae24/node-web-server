@@ -1,4 +1,4 @@
-# node-simple-server
+# node-web-server
 
 - 네트워크 연결 확인 용 간단한 노드 서버
 
